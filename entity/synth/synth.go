@@ -90,6 +90,11 @@ var (
 		// デンデン竜
 		// ワイバーンドッグ
 		// スカイドラゴン
+		&common.SynthPathRoot{
+			SynthPathBase: &common.SynthPathBase{
+				MonsterId: 77,
+			},
+		},
 		// ガメゴン
 		// ギガントヒルズ
 		// ソードドラゴン
@@ -109,6 +114,11 @@ var (
 		// メタルドラゴン
 		// ライバーン
 		// ウルフドラゴン
+		&common.SynthPathRoot{
+			SynthPathBase: &common.SynthPathBase{
+				MonsterId: 100,
+			},
+		},
 		// ガメゴンロード
 		// キングリザード
 		// コアトル
@@ -173,13 +183,28 @@ var (
 		// デザートランナー
 		// デッドペッカー
 		// とつげきうお
+		&common.SynthPathRoot{
+			SynthPathBase: &common.SynthPathBase{
+				MonsterId: 164,
+			},
+		},
 		// ビーンファイター
 		// ヘルボックル
+		&common.SynthPathRoot{
+			SynthPathBase: &common.SynthPathBase{
+				MonsterId: 166,
+			},
+		},
 		// メランザーナ
 		// 岩とびあくま
 		// うずしおキング
 		// エビルアングラー
 		// ガマキャノン
+		&common.SynthPathRoot{
+			SynthPathBase: &common.SynthPathBase{
+				MonsterId: 171,
+			},
+		},
 		// サンダーフロッグ
 		// じごくのたまねぎ
 		// スノーグリフォン
@@ -196,6 +221,11 @@ var (
 		// だいおうガマ
 		// ダンスニードル
 		// ブラックベジター
+		&common.SynthPathRoot{
+			SynthPathBase: &common.SynthPathBase{
+				MonsterId: 187,
+			},
+		},
 		// レッドシャモ
 		// アカイライ
 		// 荒野シュリンプ
@@ -274,7 +304,17 @@ var (
 		// ダークペルシャ
 		// ダースリカント
 		// とうだいタイガー
+		&common.SynthPathRoot{
+			SynthPathBase: &common.SynthPathBase{
+				MonsterId: 265,
+			},
+		},
 		// ドン・モグーラ
+		&common.SynthPathRoot{
+			SynthPathBase: &common.SynthPathBase{
+				MonsterId: 266,
+			},
+		},
 		// バッファロン
 		// ベロリンマン
 		// モヒカント
@@ -287,6 +327,11 @@ var (
 		// 魔犬レオパルド
 		// ももいろキング
 		// キングレオ
+		&common.SynthPathRoot{
+			SynthPathBase: &common.SynthPathBase{
+				MonsterId: 272,
+			},
+		},
 		// からくりエッグ
 		// ギズモ
 		// くみひもこぞう
@@ -315,6 +360,11 @@ var (
 		// ガチャコッコ
 		// キラーアンブレラ
 		// クリオネオン
+		&common.SynthPathRoot{
+			SynthPathBase: &common.SynthPathBase{
+				MonsterId: 306,
+			},
+		},
 		// ケミカルゼリー
 		// シールドオーガ
 		// デビルアーマー
@@ -396,6 +446,11 @@ var (
 		// シャドーサタン
 		// シルバーデビル
 		// ピサロのてさき
+		&common.SynthPathRoot{
+			SynthPathBase: &common.SynthPathBase{
+				MonsterId: 387,
+			},
+		},
 		// ブチュチュンパ
 		// ヘルビースト
 		// ボストロール
@@ -423,6 +478,11 @@ var (
 		// トロルボンバー
 		// ホラービースト
 		// ライオネック
+		&common.SynthPathRoot{
+			SynthPathBase: &common.SynthPathBase{
+				MonsterId: 414,
+			},
+		},
 		// アトラス
 		// ギガデーモン
 		// ギュメイ将軍
@@ -462,6 +522,11 @@ var (
 		// じんめんじゅ
 		// チョコホイップ
 		// デスマエストロ
+		&common.SynthPathRoot{
+			SynthPathBase: &common.SynthPathBase{
+				MonsterId: 453,
+			},
+		},
 		// ベロベロ
 		// ぼうれい剣士
 		// マタンゴ
@@ -477,6 +542,11 @@ var (
 		// ボーンナイト
 		// ほねリーダー
 		// ポムポムボム
+		&common.SynthPathRoot{
+			SynthPathBase: &common.SynthPathBase{
+				MonsterId: 468,
+			},
+		},
 		// メトロゴースト
 		// ウドラー
 		// サンダーシャウト
@@ -506,6 +576,11 @@ var (
 		// まおうのかげ
 		// バラモスゾンビ
 		// カンダタ
+		&common.SynthPathRoot{
+			SynthPathBase: &common.SynthPathBase{
+				MonsterId: 497,
+			},
+		},
 		// バラモス
 		// リーズレット
 		// 暗黒神ラプソーン
@@ -520,6 +595,11 @@ var (
 		// ドルマゲス
 		// ハーゴン
 		// ぴぴぼう
+		&common.SynthPathRoot{
+			SynthPathBase: &common.SynthPathBase{
+				MonsterId: 512,
+			},
+		},
 		// 魔軍司令ホメロス
 		// ミルドラース
 		// ムドー
@@ -533,7 +613,22 @@ var (
 		// ダークドレアム
 		// ラーミア
 		// バーガースライム
+		&common.SynthPathRoot{
+			SynthPathBase: &common.SynthPathBase{
+				MonsterId: 524,
+			},
+		},
 		// フルーリーサタン
+		&common.SynthPathRoot{
+			SynthPathBase: &common.SynthPathBase{
+				MonsterId: 525,
+			},
+		},
 		// バーガーミミック
+		&common.SynthPathRoot{
+			SynthPathBase: &common.SynthPathBase{
+				MonsterId: 526,
+			},
+		},
 	}
 )
