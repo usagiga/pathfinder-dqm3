@@ -1,6 +1,6 @@
 package synth
 
-import "github.com/usagiga/pathfinder-dqm3/common"
+import "github.com/usagiga/pathfinder-dqm3/entity/common"
 
 var (
 	SynthRoute = []common.SynthPath{
